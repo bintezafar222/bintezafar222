@@ -20,4 +20,11 @@ Welcome to my Capstone & Professional Practices Portfolio
 | Field | Detail |
 | :--- | :--- |
 | **Registration No** | 071|
+| **course** | capstone & professional practices|
 | **Project Topic** | deep fake technologies:risk and regulations |
+### skills
+
+* **Programming:** C++, Python (Basic)
+* **Web Basics:** HTML5, CSS3
+* **Office Tools:** Microsoft Word, Excel, PowerPoint
+* **Soft Skills:** Problem Solving, Time Management
