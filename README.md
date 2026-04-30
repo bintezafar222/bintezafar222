@@ -4,7 +4,7 @@ Welcome to my Capstone & Professional Practices Portfolio
 ## Afreen Zafar
 **Computer Science Student**
 
-| Student | Afreen Zafar | Semester | IV-B | Course | Capstone & Professional Practices | Instructor | Madam Aroosa Mubeen |
+| Student | Afreen Zafar | Semester | IV-A | Course | Capstone & Professional Practices | Instructor | Madam Aroosa Mubeen |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 ---
@@ -19,5 +19,5 @@ Welcome to my Capstone & Professional Practices Portfolio
 ### Course Information
 | Field | Detail |
 | :--- | :--- |
-| **Registration No** | deep fake technologies:risk and regulations |
-| **Project Topic** | Cybersecurity & Applied Physics |
+| **Registration No** | 071|
+| **Project Topic** | deep fake technologies:risk and regulations |
