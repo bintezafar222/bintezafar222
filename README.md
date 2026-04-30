@@ -1,16 +1,23 @@
-## Hi there 👋
+# Reflective Portfolio
+Welcome to my Capstone & Professional Practices Portfolio
 
-<!--
-**bintezafar222/bintezafar222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Afreen Zafar
+**Computer Science Student**
 
-Here are some ideas to get you started:
+| Student | Afreen Zafar | Semester | IV-B | Course | Capstone & Professional Practices | Instructor | Madam Aroosa Mubeen |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+* Computer Science student with a passion for creating useful and impactful software.
+* Interested in programming, logical thinking, and solving complex problems.
+* Actively learning software development principles and modern best practices.
+* Exploring emerging technologies to expand my technical knowledge and skills.
+* Committed to continuous growth, both academically and professionally.
+
+### Course Information
+| Field | Detail |
+| :--- | :--- |
+| **Registration No** | deep fake technologies:risk and regulations |
+| **Project Topic** | Cybersecurity & Applied Physics |
