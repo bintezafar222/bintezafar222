@@ -47,4 +47,25 @@ Welcome to my Capstone & Professional Practices Portfolio
 ## About Me
 * Computer Science student with a passion for creating useful and impactful software.
 * Interested in programming, logical thinking, and solving complex problems.
-*
+
+
+---
+
+## Featured Projects 💻
+
+### 1. Radar System
+* **Description:** A hardware-based project that uses sensors to detect objects within a specific range and visualize them on a screen.
+* **Tech Stack:** Arduino/Microcontroller, Ultrasonic Sensor, Processing IDE.
+
+### 2. Hospital Management System
+* **Description:** A comprehensive software solution to manage patient records, doctor appointments, and billing information.
+* **Focus:** Database management and User Interface design.
+
+### 3. Student Information System
+* **Description:** A system designed to automate student data handling, including registrations, attendance, and grading.
+* **Core Skills:** CRUD operations and File Handling.
+
+### 4. Numerical Representation with Random Access List
+* **Description:** A technical project exploring efficient ways to represent numbers using specialized data structures like Random Access Lists.
+* **Focus:** Data Structures, Algorithms, and Computational Efficiency.
+
